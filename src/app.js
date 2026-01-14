@@ -9,7 +9,7 @@ const app = express();
 const corsOptions = {
   origin: [
     "http://localhost:5173",
-    "https://cti-frontend-zeta.vercel.app",
+    "https://meditation-app-frontend.vercel.app",
     "http://localhost:3001",
     "https://tribicx.com",
   ],
